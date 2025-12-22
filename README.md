@@ -56,6 +56,12 @@ Frontend Developer with hands-on experience building and refactoring real-world 
 
 ## 💼 Experience Highlights
 
+### 🚀 Gamelander — Frontend Intern
+- Worked on an e-commerce platform for games and digital products
+- Assisted in developing shop-related features and UI improvements
+- Built a strong foundation in team collaboration and production-ready frontend development
+
+
 ### 🏢 Noavaran Nikpendar Varna — Frontend Developer
 
 * Worked for 6–7 months on a **real estate CRM system**
