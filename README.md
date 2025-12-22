@@ -1,68 +1,102 @@
-<h1 align="center">Hi there! I'm Samin 👋</h1>
+<h1 align="center">Hi, I’m Samin Arab Ahmadi 👋</h1>
 
-<p align="center">A passionate Frontend Developer who cares about clean code, continuous learning, and building high-quality user experiences.</p>
-
----
-
-### 🛠️ Technologies I work with:
-
-- ⚛️ React.js / Next.js
-- 💅 TailwindCSS / SCSS
-- 🛠️ Redux Toolkit / Zustand
-- 🔐 Authentication (JWT, Form Handling, Protected Routes)
-- 💻 TypeScript / JavaScript (ES6+)
-- 🌐 REST APIs / Axios
-- ⚡ Vite / Webpack
+<p align="center">
+Frontend Developer with hands-on experience building and refactoring real-world products. I focus on scalable frontend architecture, clean and maintainable code, performance optimization, and SEO-driven development.
+</p>
 
 ---
 
-### 🧠 Currently learning:
+## 👨‍💻 About Me
 
-- Scalable frontend architecture
-- Secure authentication workflows
-- Advanced form management with validation
-- Performance optimization in React apps
-
----
-
-### 🚧 What I'm currently working on:
-
-- 🔐 Building a fully custom authentication system using Redux Toolkit & mock API with MSW
-- 🏘️ Developing a real estate dashboard project (Amlaki) with Next.js, Zustand, and modular architecture
-- ⚙️ Creating reusable UI components and dynamic form systems
-- 💡 Improving UX through better state management and route protection
+* Frontend Developer experienced in **React** and **Next.js**
+* Strong interest in **system-oriented UI design** and **scalable architectures**
+* Comfortable working on **existing codebases**, refactoring, and improving structure
+* Experience building **CRM dashboards** and **e-commerce platforms**
+* Detail-oriented with a strong focus on **performance, SEO, and code quality**
 
 ---
 
-### 🎯 Goals:
+## 🛠️ Tech Stack
 
-- Grow into a strong mid-level frontend engineer with deep understanding of core concepts
-- Contribute to open source projects
-- Build tools and UIs that actually make users' lives easier
+**Core:**
+
+* React.js / Next.js
+* TypeScript / JavaScript (ES6+)
+
+**Styling & UI:**
+
+* Tailwind CSS / SCSS
+* Component-driven UI development
+
+**State & Data:**
+
+* Redux Toolkit
+* Zustand
+* React Query
+
+**Architecture & Practices:**
+
+* Feature-based architecture
+* Clean Code & Single Responsibility Principle
+* Modular folder structures
+* Refactoring & legacy code improvement
+
+**Web & Performance:**
+
+* REST APIs / Axios
+* Performance optimization for production apps
+* SEO & Schema Markup (JSON-LD)
+
+**Tooling:**
+
+* Git / GitHub
+* Vite / Webpack
 
 ---
 
-### 🤝 Let's connect:
+## 💼 Experience Highlights
 
-- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/samin-ahmadi-93b02a207/)
-- 💌 Email: samin.arabahmadi@gmail.com
+### 🏢 Noavaran Nikpendar Varna — Frontend Developer
+
+* Worked for 6–7 months on a **real estate CRM system**
+* Designed and developed a comprehensive **CRM dashboard**
+* Implemented **role-based access** and management workflows
+* Contributed to planning and building core features for real estate operations
+* Strengthened my understanding of **scalable frontend systems** and team collaboration
+
+### 🛒 Metzon — Frontend Developer (Contract)
+
+* Refactored *Winky*, an e-commerce multi domain platform, from an unstructured codebase to a **feature-based architecture**
+* Focused on **performance optimization**, **SEO**, and **schema implementation**
+* Improved folder structure, code readability, and maintainability
+* Contributed mainly to **version 2** of the platform after MVP
 
 ---
 
-<p align="center">Fueled by curiosity & the joy of building. ❤️</p>
+## 🚀 What I’m Currently Focusing On
 
+* Designing scalable frontend architectures
+* Advanced refactoring techniques
+* Performance optimization for large React applications
+* Writing maintainable, production-ready frontend code
 
-<!--
-**SaminAhmadi/SaminAhmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎯 Goals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Grow into a strong **mid-level frontend engineer**
+* Work on complex, real-world systems
+* Contribute to impactful products and open-source projects
+
+---
+
+## 🤝 Let’s Connect
+
+* 💼 LinkedIn: [https://www.linkedin.com/in/samin-ahmadi-93b02a207/](https://www.linkedin.com/in/samin-ahmadi-93b02a207/)
+* 📧 Email: [samin.arabahmadi@gmail.com](mailto:samin.arabahmadi@gmail.com)
+
+---
+
+<p align="center">
+Building software with intention, structure, and care.
+</p>
