@@ -1,108 +1,47 @@
-<h1 align="center">Hi, I’m Samin Arab Ahmadi 👋</h1>
+# Samin Arab Ahmadi
 
-<p align="center">
-Frontend Developer with hands-on experience building and refactoring real-world products. I focus on scalable frontend architecture, clean and maintainable code, performance optimization, and SEO-driven development.
-</p>
+Frontend Developer focused on building and evolving real-world web applications with React and Next.js.
 
----
-
-## 👨‍💻 About Me
-
-* Frontend Developer experienced in **React** and **Next.js**
-* Strong interest in **system-oriented UI design** and **scalable architectures**
-* Comfortable working on **existing codebases**, refactoring, and improving structure
-* Experience building **CRM dashboards** and **e-commerce platforms**
-* Detail-oriented with a strong focus on **performance, SEO, and code quality**
+Right now I’m working on **AbarKhodro** (https://abarkhodro.ir), a live automotive platform where I spend most of my time improving performance, refining frontend architecture, and shipping features that actually matter in production.
 
 ---
 
-## 🛠️ Tech Stack
+## Work — AbarKhodro
 
-**Core:**
+In this project, I’m not just implementing UI. I’m involved in how the frontend is structured and how it evolves over time.
 
-* React.js / Next.js
-* TypeScript / JavaScript (ES6+)
+I’ve been responsible for gradually shaping parts of the architecture into a more modular, feature-based structure so that the codebase stays manageable as it grows. A big part of my work has been refactoring older sections and making them easier to extend without breaking existing behavior.
 
-**Styling & UI:**
+Performance has also been a consistent focus. I’ve worked on improving data-fetching flows with React Query, reducing unnecessary re-renders, and making sure pages feel faster even when the backend data is heavy or complex.
 
-* Tailwind CSS / SCSS
-* Component-driven UI development
+On the UI side, I’ve been building and maintaining reusable components using Tailwind and shadcn/ui, trying to keep consistency across the product instead of having scattered, one-off implementations.
 
-**State & Data:**
+I’ve also contributed to SEO-related improvements like structured data and better page organization so that the platform is more visible and index-friendly.
 
-* Redux Toolkit
-* Zustand
-* React Query
-
-**Architecture & Practices:**
-
-* Feature-based architecture
-* Clean Code & Single Responsibility Principle
-* Modular folder structures
-* Refactoring & legacy code improvement
-
-**Web & Performance:**
-
-* REST APIs / Axios
-* Performance optimization for production apps
-* SEO & Schema Markup (JSON-LD)
-
-**Tooling:**
-
-* Git / GitHub
-* Vite / Webpack
+Most of the work happens in close collaboration with backend and product teams, translating requirements into frontend systems that can actually scale instead of becoming technical debt later.
 
 ---
 
-## 💼 Experience Highlights
+## Tech Stack
 
-### 🚀 Gamelander — Frontend Intern
-- Worked on an e-commerce platform for games and digital products
-- Assisted in developing shop-related features and UI improvements
-- Built a strong foundation in team collaboration and production-ready frontend development
-
-
-### 🏢 Noavaran Nikpendar Varna — Frontend Developer
-
-* Worked for 6–7 months on a **real estate CRM system**
-* Designed and developed a comprehensive **CRM dashboard**
-* Implemented **role-based access** and management workflows
-* Contributed to planning and building core features for real estate operations
-* Strengthened my understanding of **scalable frontend systems** and team collaboration
-
-### 🛒 Metzon — Frontend Developer (Contract)
-
-* Refactored *Winky*, an e-commerce multi domain platform, from an unstructured codebase to a **feature-based architecture**
-* Focused on **performance optimization**, **SEO**, and **schema implementation**
-* Improved folder structure, code readability, and maintainability
-* Contributed mainly to **version 2** of the platform after MVP
+React, Next.js, TypeScript, JavaScript
+React Query, Redux Toolkit, Zustand
+Tailwind CSS, shadcn/ui, SCSS
+Git, GitHub, Vite, Webpack
 
 ---
 
-## 🚀 What I’m Currently Focusing On
+## What I care about
 
-* Designing scalable frontend architectures
-* Advanced refactoring techniques
-* Performance optimization for large React applications
-* Writing maintainable, production-ready frontend code
+I’m mostly interested in how frontend systems stay clean as they grow — things like architecture decisions, performance under real load, and keeping UI consistent without overengineering it.
 
 ---
 
-## 🎯 Goals
+## Contact
 
-* Grow into a strong **mid-level frontend engineer**
-* Work on complex, real-world systems
-* Contribute to impactful products and open-source projects
-
----
-
-## 🤝 Let’s Connect
-
-* 💼 LinkedIn: [https://www.linkedin.com/in/samin-ahmadi-93b02a207/](https://www.linkedin.com/in/samin-ahmadi-93b02a207/)
-* 📧 Email: [samin.arabahmadi@gmail.com](mailto:samin.arabahmadi@gmail.com)
+LinkedIn: linkedin.com/in/samin-ahmadi-93b02a207
+Email: [samin.arabahmadi@gmail.com](mailto:samin.arabahmadi@gmail.com)
 
 ---
 
-<p align="center">
-Building software with intention, structure, and care.
-</p>
+> Building products that don’t fall apart as they scale.
